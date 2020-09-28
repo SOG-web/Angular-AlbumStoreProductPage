@@ -20,7 +20,7 @@ import { ProductDescriptionComponent } from './product-description/product-descr
     HttpModule
   ],
   providers: [
-    ProductService,
+    ProductService
   ],
   bootstrap: [AppComponent]
 })
